@@ -13,7 +13,7 @@
   </p>
 
   <p>
-    <a href="https://drive.google.com/file/d/1IgkA-vjcu4ckYN5rLJHaINOn9SOIkEmj/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1Y3I_by0bnDyHnfR3XVzyrVg2pzkLlr5u/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://portfolio-z-t2tj.vercel.app/">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
